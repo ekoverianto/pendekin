@@ -1,3 +1,3 @@
 # Pendekin Project
 
-### Web Apps for URL Shortener using Flask
+### WebApp for URL Shortener using Flask
