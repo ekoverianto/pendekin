@@ -1,5 +1,5 @@
 # Pendekin
-## _Web App for URL Shortener_
+## _Web App for URL Shorten_
 [![N|Solid](https://img.icons8.com/fluency/2x/flask.png)](https://flask.palletsprojects.com/en/2.1.x/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ekoverianto/pendekin)
